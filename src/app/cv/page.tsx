@@ -55,7 +55,7 @@ const skills: Skill[] = [
   {
     category: "Soft Skills",
     items:
-      "Public speaking, communication, problem-solving, teamwork, and continuous learning",
+      "Public speaking, communication, problem-solving, teamwork, and continuous learning.",
   },
 ];
 
