@@ -46,5 +46,17 @@
     "technologies": ["Next.js", "TypeScript", "E-commerce UI"],
     "features": ["Responsive product gallery", "Detailed tile information", "Favorite-focused interactions", "Modern storefront layout"],
     "featured": false
-  }
+  },
+  {
+    "id": 5,
+    "name": "Bank Loan Calculator.",
+    "type": "React",
+    "image": "https://s1.imgbb.ws/file/storage-sv1/Kv3Xp.png",
+    "description": "A financial platform where users can explore loan options, calculate payments, and plan repayments.",
+    "longDescription": "A practical financial calculator that converts loan amount, interest rate, and repayment term into clear monthly payment estimates. Interactive controls make it easy to compare values and understand repayment planning.",
+    "live": "https://bank-loan-calculator.vercel.app/",
+    "technologies": ["React", "JavaScript", "Material UI", "Chart.js"],
+    "features": ["Instant payment calculations", "Interactive amount controls", "Responsive financial visualization", "Accessible user interface"],
+    "featured": false
+  },
 ]
