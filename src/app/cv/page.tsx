@@ -123,7 +123,7 @@ const personalInformation = [
       "Musapur, Bandar, Narayanganj, Dhaka, Bangladesh",
   },
   {
-    label: "Contact Num",
+    label: "Contact Number",
     value: "+880 1883-650010",
   },
 ];
